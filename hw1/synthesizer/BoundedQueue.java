@@ -1,22 +1,22 @@
-package es.datastructur.synthesizer;
+package synthesizer;
 
 import java.util.Iterator;
 
 public interface BoundedQueue<T> extends Iterable<T> {
 
-    // return size of the buffer.
+    // return size of the buffer
     int capacity();
 
-    // return number of items currently in the buffer.
+    // return number of items currently in the buffer
     int fillCount();
 
-    // add item x to the end.
+    // add item x to the end
     void enqueue(T x);
 
-    // delete and return item from the front.
+    // delete and return item from the front
     T dequeue();
 
-    // return (but do not delete) item from the front.
+    // return (but do not delete) item from the front
     T peek();
 
     // is the buffer empty (fillCount equals zero)?
@@ -29,7 +29,5 @@ public interface BoundedQueue<T> extends Iterable<T> {
         return fillCount() == capacity();
     }
 
-    // Return a iterator.
     Iterator<T> iterator();
-
 }
