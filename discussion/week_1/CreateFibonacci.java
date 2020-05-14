@@ -1,4 +1,4 @@
-/** A client that uses the synthesizer package to replicate a plucked guitar string sound */
+/** count Fibonacci number */
 public class CreateFibonacci {
     public static int fib(int n) {
         if ((n == 1) || (n == 2)) {
