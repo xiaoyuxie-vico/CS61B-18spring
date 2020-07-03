@@ -8,6 +8,7 @@ public class IntList {
         rest = r;
     }
 
+    /** Returns the size of this IntList. */
     public int size() {
         if (rest == null) {
             return 1;
@@ -15,11 +16,12 @@ public class IntList {
         return 1 + this.rest.size();
     }
 
-    public int get(int index) {
-        if (index == 0) {
+    /** Returns the ith item of this IntList. */
+    public int get(int i) {
+        if (i == 0) {
             return first;
         }
-        return this.rest.get(index - 1);
+        return this.rest.get(i - 1);
     }
 
     public static void main(String[] args) {
