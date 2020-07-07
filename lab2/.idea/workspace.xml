@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed114cc5-8335-419b-86c5-2a2d9244e8f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e2J9hQz1DbwTiV1A7lgdwjSSR2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.DebugExercise3">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="DebugExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
+      <module name="lab2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
+      <module name="lab2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebugExercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise3" />
+      <module name="lab2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DebugExercise3" />
+        <item itemvalue="Application.DebugExercise2" />
+        <item itemvalue="Application.DebugExercise1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed114cc5-8335-419b-86c5-2a2d9244e8f5" name="Default Changelist" comment="" />
+      <created>1593513604493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593513604493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="260" key="GridCell.Tab.-1.bottom" timestamp="1593532983265">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.-1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1593532983265" />
+    <state width="1398" height="260" key="GridCell.Tab.-1.center" timestamp="1593532983263">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.-1.center/0.23.1440.813@0.23.1440.813" timestamp="1593532983263" />
+    <state width="1398" height="260" key="GridCell.Tab.-1.left" timestamp="1593532983263">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.-1.left/0.23.1440.813@0.23.1440.813" timestamp="1593532983263" />
+    <state width="1398" height="260" key="GridCell.Tab.-1.right" timestamp="1593532983264">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.-1.right/0.23.1440.813@0.23.1440.813" timestamp="1593532983264" />
+    <state width="1878" height="194" key="GridCell.Tab.0.bottom" timestamp="1593782030705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593782030705" />
+    <state width="1398" height="88" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1593533150333" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1593567240505" />
+    <state width="1878" height="194" key="GridCell.Tab.0.center" timestamp="1593782030704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="194" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593782030704" />
+    <state width="1398" height="88" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1593533150332" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1593567240504" />
+    <state width="1878" height="194" key="GridCell.Tab.0.left" timestamp="1593782030704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="194" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593782030704" />
+    <state width="1398" height="88" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1593533150332" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1593567240504" />
+    <state width="1878" height="194" key="GridCell.Tab.0.right" timestamp="1593782030705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="194" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593782030705" />
+    <state width="1398" height="88" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1593533150333" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1593567240504" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1593532858404">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1593532858404" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1593532858404">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1593532858404" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1593532858403">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1593532858403" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1593532858404">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1593532858404" />
+    <state x="229" y="23" key="SettingsEditor" timestamp="1593532373367">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="229" y="23" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1593532373367" />
+    <state x="283" y="165" width="873" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593532751243">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="283" y="165" width="873" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.813@0.23.1440.813" timestamp="1593532751243" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="newTotal &lt; 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
