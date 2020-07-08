@@ -19,14 +19,27 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed114cc5-8335-419b-86c5-2a2d9244e8f5" name="Default Changelist" comment="" />
+    <list default="true" id="ed114cc5-8335-419b-86c5-2a2d9244e8f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Intlist/SLLTroubleMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/javalib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intlist/IntListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntListTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1e2J9hQz1DbwTiV1A7lgdwjSSR2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,9 +54,9 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.DebugExercise1">
+  <component name="RunManager" selected="Application.SLLTroubleMaker">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -51,24 +64,16 @@
       <module />
       <method />
     </configuration>
-    <configuration name="DebugExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
+    <configuration name="SLLTroubleMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLLTroubleMaker" />
       <module name="lab2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
-      <module name="lab2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DebugExercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise3" />
+    <configuration name="SLList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLList" />
       <module name="lab2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -77,6 +82,38 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testAddFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testAddFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,9 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DebugExercise1" />
-        <item itemvalue="Application.DebugExercise3" />
-        <item itemvalue="Application.DebugExercise2" />
+        <item itemvalue="Application.SLLTroubleMaker" />
+        <item itemvalue="Application.SLList" />
+        <item itemvalue="JUnit.IntListTest.testAddFirst" />
+        <item itemvalue="JUnit.IntListTest" />
+        <item itemvalue="JUnit.IntListTest.testList" />
       </list>
     </recent_temporary>
   </component>
@@ -156,34 +195,42 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.-1.right/0.23.1440.813@0.23.1440.813" timestamp="1593532983264" />
-    <state width="1398" height="148" key="GridCell.Tab.0.bottom" timestamp="1594108017589">
+    <state width="1440" height="217" key="GridCell.Tab.0.bottom" timestamp="1594199565835">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594108017589" />
+    <state width="1440" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594199565835" />
     <state width="1878" height="187" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593782671573" />
+    <state width="1440" height="264" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1594134537448" />
     <state width="1398" height="88" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1593533150333" />
     <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1593567240505" />
-    <state width="1398" height="148" key="GridCell.Tab.0.center" timestamp="1594108017588">
+    <state width="1920" height="264" key="GridCell.Tab.0.bottom/294.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1594112412771" />
+    <state width="1440" height="217" key="GridCell.Tab.0.center" timestamp="1594199565834">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594108017588" />
+    <state width="1440" height="217" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594199565834" />
     <state width="1878" height="187" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593782671572" />
+    <state width="1440" height="264" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1594134537447" />
     <state width="1398" height="88" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1593533150332" />
     <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1593567240504" />
-    <state width="1398" height="148" key="GridCell.Tab.0.left" timestamp="1594108017587">
+    <state width="1920" height="264" key="GridCell.Tab.0.center/294.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1594112412769" />
+    <state width="1440" height="217" key="GridCell.Tab.0.left" timestamp="1594199565833">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594108017587" />
+    <state width="1440" height="217" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594199565833" />
     <state width="1878" height="187" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593782671571" />
+    <state width="1440" height="264" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1594134537446" />
     <state width="1398" height="88" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1593533150332" />
     <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1593567240504" />
-    <state width="1398" height="148" key="GridCell.Tab.0.right" timestamp="1594108017589">
+    <state width="1920" height="264" key="GridCell.Tab.0.left/294.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1594112412768" />
+    <state width="1440" height="217" key="GridCell.Tab.0.right" timestamp="1594199565834">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594108017589" />
+    <state width="1440" height="217" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594199565834" />
     <state width="1878" height="187" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593782671573" />
+    <state width="1440" height="264" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1594134537447" />
     <state width="1398" height="88" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1593533150333" />
     <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1593567240504" />
+    <state width="1920" height="264" key="GridCell.Tab.0.right/294.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1594112412770" />
     <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1593532858404">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
@@ -200,15 +247,21 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1593532858404" />
-    <state x="305" y="23" key="SettingsEditor" timestamp="1593782166397">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="229" y="19" key="SettingsEditor" timestamp="1594189697951">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="229" y="19" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594189697951" />
     <state x="305" y="23" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593782166397" />
     <state x="229" y="23" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1593532373367" />
+    <state x="305" y="23" key="SettingsEditor/294.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1594111878886" />
     <state x="283" y="165" width="873" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593532751243">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="283" y="165" width="873" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.813@0.23.1440.813" timestamp="1593532751243" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1594199550831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594199550831" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

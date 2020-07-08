@@ -112,6 +112,12 @@ public class IntList {
         return res;
     }
 
+    public static IntList addFirst(int x, IntList L) {
+        IntList res = new IntList(x, L);
+        System.out.println(res);
+        return res;
+    }
+
 
 
 
